@@ -8,9 +8,9 @@
 <body>
     <h1>Selamat Datang di perelekIN</h1>
     <ul>
-        <li><a href="/pembayaran">Cek Pembayaran</a></li>
-        <li><a href="/laporan">Laporan Keuangan</a></li>
-        <li><a href="/event">Event Warga</a></li>
+        <li><a href="/pembayaran">Cek Status Pembayaran Perelek</a></li>
+        <li><a href="/laporan">Laporan Keuangan RT</a></li>
+        <li><a href="/event">Event Kegiatan Warga</a></li>
     </ul>
 </body>
 </html>
